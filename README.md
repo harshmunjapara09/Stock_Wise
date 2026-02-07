@@ -105,7 +105,7 @@ To get started with this Banking System, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/stock-market-app.git
+   git clone https://github.com/harshmunjapara09/Stock_Wise.git
 2. **Set up the required database (MySQL) and configure the database connection** in the `application.properties` file, and also you have to set up SMTP for email OTP.
 
 3. **Build and run the application** using Maven or your preferred IDE.
